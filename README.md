@@ -1,4 +1,4 @@
-# weapp-color
+# weapp-color rel
 
 秒速天气：
 一个基于微信小程序的游戏。
