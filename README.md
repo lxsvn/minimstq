@@ -1,5 +1,6 @@
 # weapp-color
 
+秒速天气：
 一个基于微信小程序的游戏。
 
 ## 使用
@@ -12,6 +13,4 @@
 
 ## 工具
 
-[官方开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
-
-[开发工具下载](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
+ 
